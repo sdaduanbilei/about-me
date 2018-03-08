@@ -1,8 +1,8 @@
-#About me
+# About me
 	
 	一个在昆明奋斗的 程序猿
 	
-##技能
+## 技能
   
   	Android  开发  熟练
   	
@@ -10,7 +10,7 @@
   	
   	APP UI 设计  不会PS 但是可以随便画画
   	
-##项目
+## 项目
 
 列举一些个人认为比较有代表性的APP 做为展示 ;（以下APP 都是我一人开发完成）
 IOS 开发 swift 基础，目前没有满意的项目，所以这里只展示 Android 开发项目
@@ -79,7 +79,7 @@ UI 设计遵循   google 主推的 Android Design 设计。中规中矩，目前
 ## 开发 设计 工具
 Eclipse , AndroidStuido , Xcode , Sketch 
 
-##License
+## License
 	Copyright 2015 sdaduanbilei
 
 	Licensed under the Apache License, Version 2.0 (the "License");
